@@ -1,0 +1,5 @@
+package TalkToActor
+
+ trait RecorderMsg {
+
+}
