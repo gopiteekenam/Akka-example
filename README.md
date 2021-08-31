@@ -1,5 +1,5 @@
 ## The Obligatory Hello World
-
+Hello
 Since every programming paradigm needs to solve the tough problem of printing a well-known greeting to the console we’ll introduce you to the actor-based version.
 
 Open [HelloWorld.scala](src/main/scala/sample/hello/HelloWorld.scala).
